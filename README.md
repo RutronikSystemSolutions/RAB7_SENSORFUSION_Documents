@@ -1,4 +1,4 @@
-# RAB7_Documents
+# RAB7_SENSORFUSION_Documents
 
 RAB7-SENSORFUSION is an Arduino shield adapter board for the environment and inertial sensors from Infineon, Sensirion and Bosch evaluation and prototyping.
 
